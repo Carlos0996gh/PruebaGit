@@ -5,3 +5,5 @@ Esto es una modificación a la nota.
 
 
 Esta modificacion se realizó en una rama.
+
+Esto es una modificación para mostrar el uso de diff y difftool
