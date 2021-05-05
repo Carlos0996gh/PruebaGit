@@ -1,7 +1,9 @@
 
 # Archivos a ignorar #
-#################################3
+#################################
 NuevoDoc.txt
 otro_archivo.txt
 
+# Carpetas a ignorar #
+#################################
 .vscode/
